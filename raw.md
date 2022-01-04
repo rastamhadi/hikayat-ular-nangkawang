@@ -1,38 +1,38 @@
 http://www.bl.uk/manuscripts/Viewer.aspx?ref=mss_malay_a_1_fs001r
 
 ## f.1r
-1. bismillahirahmanirahim
-2. surah alfatihah alkitab sabaah ayat[^ Perkataan yang ada pada permulaan hikayat]
+1. Bismillahirahmanirahim.
+2. Surah al-Fatihah al-Kitab saba'ah ayat[^ Perkataan yang ada pada permulaan hikayat]
 
 ## f.1v
-1. bismillahirahmanirahim.
-2. wabihi nastain billahi ali. ini hikayat orang
-3. dahulu kala diceritakan oleh orang yang empunya cetera ini.
-4. Segala peristiwa *diakunan*[^ suspek typo: diakukan] seorang raja di negeri Kembayat
+1. Bismillahirahmanirahim.
+2. Wabihi nastain billahi ali. Ini hikayat orang
+3. dahulu kala diceterakan oleh orang yang empunya cetera ini.
+4. Segala peristiwa *diakunan*[^ suspek typo: diakukan] seorang raja di negeri Kembayat,
 5. terlalu amat besar kerajaannya. Baginda itu ada beranak tujuh
-6. orang, perempuan belaka. Maka terlalu kasih ayahanda 
-7. baginda akan anaknya. Ketujuh ayat di dalam anaknya itu
+6. orang, perempuan belaka. Maka terlalulah kasih ayahanda 
+7. baginda akan anaknya ketujuh itu. Di dalam anaknya itu,
 8. puteri bongsu itulah yang teramat kasih ayahanda baginda.
-9. Lagipun dengan baik rupa paras seperti anak
-10. bidadari di *Makinalah* [^ tak pasti apa ni] dipunya puteri bongsu itu
-11. Maka diperbuatkanlah oleh ayahanda Banginda itu suatu
+9. Lagipun dengan baik rupa parasnya seperti anak
+10. bidadari, demikianlah rupanya puteri bongsu itu.
+11. Maka diperbuatkanlah oleh ayahanda baginda itu suatu
 12. taman akan tempat anakanda baginda semuanya sekalian itu berma-
 13. in-main. Maka di dalam taman itu adalah berbagai-bagai jenisnya
 
 ## f.2r
 1. bunga-bungaan dan buah-buahan di dalam taman itu.
-2. Maka Tuan Puteri Ketujuh itu pun pergilah bermain-main
-3. ke taman itu dan mandi di dalam kolam itu maka
-4. Tuan Puteri sekalian itupun pergilah menggentas [^ memetik dengan kuku]
-5. bunga-bungaan serta digubahnya akan dipersuntingkannya.
-6. Maka sekaliananya ia bersunting bunga di *kerusi* [^ tak pasti] itu seraya
-7. bersenda-senda dan bergurau dengan sekali Mak Inang
-8. ... [^ tak pasti] dayang-dayang sekalian maka lalu pergi mandi
-9. pada *kualam* [^ suspek typo: kolam] itu maka kata-kata [^ berkata-kata] puteri yang sulung, “Adinda
-10. awallah kita semuanya ini seumpa [^ suspek typo: seumpama] bunga kembang. Tidak
-11. normal lelaki menantikan kembang datang menyerangkan dia
-12. tidak apakah datang jangankan di ... [^ tak pasti] malas pula
-13. ia tiada jika tidak normal nescaya gugurlah
+2. Maka Tuan Puteri ketujuh itu pun pergilah bermain-main
+3. ke taman itu dan mandi di dalam kolam itu. Maka
+4. Tuan Puteri sekalian itupun pergilah mengentas [^ memetik dengan kuku]
+5. bunga-bungaan seraya digubahnya akan dipersuntingkannya.
+6. Maka sekaliannya ia bersunting bunga digubah itu seraya
+7. bersenda-senda dan bergurau dengan segala Mak Inang
+8. pengasih dayang-dayang sekalian. Maka lalu ia pergi mandi
+9. pada kolam itu. Maka kata puteri yang sulung, “Adinda
+10. adalah kita semuanya ini seumpa [^ suspek typo: seumpama] bunga kembang tidak
+11. nurmala lagi menantikan kumbang datang menyeringkan dia
+12. tidakkan datang jangankan diseringkan malas pula
+13. ia tiada jika tidak nurmala nescaya gugurlah
 
 ## f.2v
 1. kebumi maka tiadalah berguna lagi. Maka kata Puteri yang tengah
